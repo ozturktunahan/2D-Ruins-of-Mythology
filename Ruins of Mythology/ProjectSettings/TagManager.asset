@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextLevel
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgroundtemples
+    uniqueID: 3489611245
+    locked: 0
+  - name: ground
+    uniqueID: 633592671
+    locked: 0
+  - name: underground
+    uniqueID: 77558951
+    locked: 0
+  - name: gameplay
+    uniqueID: 1925015921
+    locked: 0
+  - name: coins
+    uniqueID: 4268306833
+    locked: 0
+  - name: player
+    uniqueID: 4053929555
+    locked: 0
